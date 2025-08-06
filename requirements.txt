@@ -1,0 +1,21 @@
+# STL Auto Organizer Requirements
+# This script uses only Python standard library modules
+# No additional packages required
+
+# Python 3.7+ required for:
+# - pathlib.Path.resolve()
+# - typing annotations
+# - argparse
+# - venv module
+
+# Standard library modules used:
+# - os
+# - sys
+# - shutil
+# - argparse
+# - re
+# - subprocess
+# - venv
+# - pathlib
+# - typing
+# - collections
